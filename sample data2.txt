@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Mobile gaming has become an integral part of our daily lives, and it's no surprise that we are constantly looking for ways to enhance our gaming experience.","photo":"https://iili.io/Hkbfu99.jpg"},
+  {"title":"tips mod 2","desc":"Because mobile gaming has become so ingrained in our daily lives, it should come as no surprise that we are continually seeking for ways to improve it.","photo":"https://iili.io/HkbfaMx.png"},
+  {"title":"helper pack 3","desc":"Lulubox is an application that has been designed to make the gaming experience even better by providing a range of features that help players unlock additional features and functionalities.","photo":"https://iili.io/HkbfAue.jpg"},
+  {"title":"advance mod 4","desc":"The Lulubox application was created to enhance the gaming experience by offering a number of features that enable users to access new features and functionalities.","photo":"https://iili.io/HkbfYnj.png"},
+  {"title":"advice pack 5","desc":"Lulubox is an Android application that allows players to unlock additional features and functionalities in their favorite games. ","photo":"https://iili.io/Hkbf5Zb.jpg"},
+  {"title":"tips mod 6","desc":"Players can access extra features and functionalities in their favorite games with the Android app Lulubox.","photo":"https://iili.io/HkbfRwu.jpg"},
+  {"title":"how to use this app 7","desc":"It essentially acts as a gaming plugin, giving players access to a range of skins, coins, and other in-game items that would otherwise require players to spend real money to obtain.","photo":"https://iili.io/HkbqHVj.png"},
+  {"title":"helper pack 8","desc":"It effectively functions as a plugin for games, granting players access to a variety of skins, coins, and other in-game things that they would otherwise have to buy with real money.","photo":"https://iili.io/Hkbq9ob.webp"}
 
    ]
  
